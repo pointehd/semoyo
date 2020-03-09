@@ -10,9 +10,10 @@
 >	- 김현
 >	- 온혁진
 >	- 임예빈
-> 나의 기여도 : 40%
 
-***
+###### 나의 기여도 : 40%
+
+
 
 ## 개발 환경
 - OS
@@ -39,4 +40,5 @@
 - AJAX를 이용한 서버 측과 클라이언트측간의 비동기식 데이터 교환 기술
 
 ## DB 설계 ERD
-![DB](/WebContent/img/DB.PNG)
+![DB](/WebContent/img/DB.png)
+[pdf 링크][https://github.com/pointehd/semoyo/blob/master/WebContent/file/db_ver_pdf.pdf]
