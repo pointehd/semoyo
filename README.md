@@ -3,10 +3,10 @@
 > ## 프로젝트 기간 및 인원
 > 	- 2018.12.17 ~ 2019.1.10
 > 참여인원 : 7명
->	- [황동현][https://github.com/pointehd]
->	- [이수진][https://github.com/tudiiii]
+>	- [황동현](https://github.com/pointehd)
+>	- [이수진](https://github.com/tudiiii)
 >	- 조은서
->	- [한영운][https://github.com/0woon]
+>	- [한영운](https://github.com/0woon)
 >	- 김현
 >	- 온혁진
 >	- 임예빈
@@ -41,4 +41,4 @@
 
 ## DB 설계 ERD
 ![DB](/WebContent/img/DB.png)
-[pdf 링크][https://github.com/pointehd/semoyo/blob/master/WebContent/file/db_ver_pdf.pdf]
+[pdf 링크](https://github.com/pointehd/semoyo/blob/master/WebContent/file/db_ver_pdf.pdf)
